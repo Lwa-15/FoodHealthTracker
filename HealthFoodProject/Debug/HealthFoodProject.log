@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AddFoodItem.cpp
+  AssemblyInfo.cpp
+  FoodDiary.cpp
+  HealthFoodProject.cpp
+  HealthPage.cpp
+  HomePage.cpp
+  Login.cpp
+  NutrientSort.cpp
+  Generating Code...
+  AddFoodItem.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HealthFoodProject.vcxproj -> G:\C++ Project\HealthFoodProject\Debug\HealthFoodProject.exe

@@ -1,0 +1,16 @@
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.vcxprojAssemblyReference.cache
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.AddFoodItem.resources
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.vcxproj.GenerateResource.cache
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.FoodDiary.resources
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.Login.resources
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.HomePage.resources
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.NutrientSort.resources
+G:\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.HealthPage.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.vcxprojAssemblyReference.cache
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.AddFoodItem.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.FoodDiary.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.HealthPage.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.HomePage.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.Login.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.NutrientSort.resources
+G:\C++ Project\HealthFoodProject\HealthFoodProject\Debug\HealthFoodProject.vcxproj.GenerateResource.cache
